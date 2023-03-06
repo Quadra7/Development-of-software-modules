@@ -57,9 +57,6 @@ namespace lesson_02022023
                     g.FillRectangle(new SolidBrush(Color.FromArgb(rnd.Next(0, 255), rnd.Next(0, 255), rnd.Next(0, 255))), e.X, e.Y, 50, 50);
                     break;
                 case 2:
-                    g.DrawPolygon(new Pen(new SolidBrush(Color.FromArgb(rnd.Next(0, 255), rnd.Next(0, 255), rnd.Next(0, 255)))), new PointF[] { new PointF(e.X, e.Y), new PointF(e.X - 20, e.X - 50), new PointF(e.X + 15, e.Y + 90), new PointF(e.X + 70, e.Y - 50), new PointF(e.X + 50, e.Y) });
-                    break;
-                default:
                     g.DrawString("?", new Font("Times New Roman", 24), new SolidBrush(Color.FromArgb(rnd.Next(0, 255), rnd.Next(0, 255), rnd.Next(0, 255))), e.X, e.Y);
                     break;
             }
