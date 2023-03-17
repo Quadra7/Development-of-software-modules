@@ -30,3 +30,14 @@ E:\CI_NSU\2 курс\Разработка программных модулей\
 E:\CI_NSU\2 курс\Разработка программных модулей\lab_9\obj\Debug\lesson_02022023.csproj.CoreCompileInputs.cache
 E:\CI_NSU\2 курс\Разработка программных модулей\lab_9\obj\Debug\lesson_02022023.exe
 E:\CI_NSU\2 курс\Разработка программных модулей\lab_9\obj\Debug\lesson_02022023.pdb
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\bin\Debug\lesson_02022023.exe.config
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\bin\Debug\lesson_02022023.exe
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\bin\Debug\lesson_02022023.pdb
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.csproj.AssemblyReference.cache
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.csproj.SuggestedBindingRedirects.cache
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.Form1.resources
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.Properties.Resources.resources
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.csproj.GenerateResource.cache
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.csproj.CoreCompileInputs.cache
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.exe
+F:\CI_NSU\2 курс\Разработка программных модулей\lab_9 changed\obj\Debug\lesson_02022023.pdb
