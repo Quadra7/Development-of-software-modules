@@ -108,6 +108,36 @@ namespace lesson_02022023
                     TextResult.Text += textFrom[i];
                 }
             }
+            TextResult.Text += "\n\n";
+            for (int d = 0; d < 33; d++)
+            {
+                for (int i = 0; i < textFrom.Length; i++)
+                {
+                    int num = 0;
+                    bool isUpper = false;
+
+                    if (Char.IsUpper(textFrom[i])) isUpper = true;
+
+                    for (int j = 0; j < alphabet.Length; j++)
+                    {
+                        if (Char.ToLower(textFrom[i]) == alphabet[j])
+                        {
+                            break;
+                        }
+                        num++;
+                    }
+                    if (num != 33)
+                    {
+                        int pos = num - d;
+                        TextResult.Text += isUpper ? Char.ToUpper(alphabet[pos < 0 ? 33 + pos : pos]) : alphabet[pos < 0 ? 33 + pos : pos];
+                    }
+                    else
+                    {
+                        TextResult.Text += textFrom[i];
+                    }
+                }
+                TextResult.Text += "\n";
+            }
 
             /*
             TextResult.Text = "";
